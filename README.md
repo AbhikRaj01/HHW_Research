@@ -121,12 +121,10 @@ The system will generate SHAP summary plots (beeswarm) to visualize feature impo
 
 This project addresses specific gaps in current Environmental Engineering literature:
 
-* 
-**The Explainability Void:** Bringing SHAP/LIME frameworks to waste management.
+* **The Explainability Void:** Bringing SHAP/LIME frameworks to waste management.
 
 
-* 
-**The HHW Niche:** shifting focus from industrial waste to the complex, heterogeneous nature of household waste.
+* **The HHW Niche:** shifting focus from industrial waste to the complex, heterogeneous nature of household waste.
 
 
 
